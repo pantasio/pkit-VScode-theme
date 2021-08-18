@@ -1,8 +1,19 @@
 {
     "name": "pkit",
-    "displayName": "pkit",
-    "description": "pkit",
+    "displayName": "Pkit VScode dark theme",
+    "description": "The VScode theme I working all day",
     "version": "0.0.1",
+    "publisher": "pantasio",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pantasio/pkit-VScode-theme.git"
+    },
+    "keywords": [
+        "theme",
+        "pantasio",
+        "pkit theme",
+        "dark theme"
+    ],
     "engines": {
         "vscode": "^1.59.0"
     },
